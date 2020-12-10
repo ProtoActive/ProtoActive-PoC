@@ -1,0 +1,36 @@
+{
+    "rowTot": "10",
+    "colTot": "100",
+    "fourbyfour": {
+        "id": "1",
+        "row_grid": "4",
+        "col_grid": "4",
+        "row_px": "4",
+        "col_px": "4",
+        "if_selected": "1"
+    },
+    "fourbyfive": {
+        "id": "2",
+        "row_grid": "5",
+        "col_grid": "4",
+        "row_px": "4",
+        "col_px": "4",
+        "if_selected": "0"
+    },
+    "fivebyfive": {
+        "id": "3",
+        "row_grid": "5",
+        "col_grid": "5",
+        "row_px": "4",
+        "col_px": "4",
+        "if_selected": "0"
+    },
+    "fivebysix": {
+        "id": "4",
+        "row_grid": "6",
+        "col_grid": "5",
+        "row_px": "4",
+        "col_px": "4",
+        "if_selected": "0"
+    }
+}

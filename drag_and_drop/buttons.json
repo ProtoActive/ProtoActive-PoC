@@ -1,0 +1,47 @@
+{
+    "firebase_Y": {
+        "LikeBtn": [
+            {
+                "id": "1",
+                "layout": {
+                    "left": "100",
+                    "top": "20",
+                    "height": "40",
+                    "width": "40",
+                    "color": "FFFF00",
+                    "value": "like",
+                    "font": "1"
+                }
+            }
+        ]
+    },
+    "firebase_N": {
+        "LinkBtn": [
+            {
+                "id": "1",
+                "layout": {
+                    "left": "",
+                    "top": "",
+                    "height": "",
+                    "width": "",
+                    "link": "",
+                    "color": ""
+                }
+            }
+        ],
+        "PageTabBtn": [
+            {
+                "id": "1",
+                "layout": {
+                    "name": "",
+                    "left": "",
+                    "top": "",
+                    "height": "",
+                    "width": "",
+                    "color": "",
+                    "page": "https://www.naver.com/"
+                }
+            }
+        ]
+    }
+}

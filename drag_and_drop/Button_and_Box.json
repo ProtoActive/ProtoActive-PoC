@@ -1,0 +1,69 @@
+{
+    "Posting":[
+        {
+            "id":1,
+            "layout":{
+                "Top":"",
+                "Left":"",
+                "fonts":"",
+                "Width":"",
+                "color":""
+            },
+            "options":{
+                "button":[
+                    {
+                        "id":1,
+                        "layout":{
+                            "height":"20",
+                            "width":"20",
+                            "color":"FF0000"
+                        }
+                    }
+                ],
+                "imageBox":[
+                    {
+                        "id":1,
+                        "layout":{
+                            "Top":"",
+                            "Left":"",
+                            "fonts":"",
+                            "Width":"",
+                            "color":""
+                        }
+                    }
+                ],
+                "textBox":[
+                     {
+                         "id":1,
+                         "layout":{
+                            "top":"100",
+                            "left":"100",
+                            "height":"20",
+                            "width":"100",
+                            "color":"FFFFF0"
+                        },
+                         "textarea":{
+                            "cols": "30",
+                            "rows": "3"
+                         },
+                        "placeholder": "무슨 일이 일어나고 있나요?"
+                    }
+                ],
+
+                "priceBox":[
+                    {
+                        "id":1,
+                        "layout":{
+                            "Top":"",
+                            "Left":"",
+                            "fonts":"",
+                            "Width":"",
+                            "color":""
+                        }
+                    }
+                
+                ]
+            }
+        }
+    ]
+}
